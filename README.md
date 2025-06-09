@@ -1,1 +1,3 @@
-# MER-Mecanica
+# MER Mecanica
+
+<img src="Mecanica.PNG">
